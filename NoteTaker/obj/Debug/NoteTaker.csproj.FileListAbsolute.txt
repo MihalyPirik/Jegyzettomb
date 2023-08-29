@@ -1,0 +1,11 @@
+C:\Users\misip\OneDrive\Asztali gép\NoteTaker\bin\Debug\NoteTaker.exe.config
+C:\Users\misip\OneDrive\Asztali gép\NoteTaker\bin\Debug\NoteTaker.exe
+C:\Users\misip\OneDrive\Asztali gép\NoteTaker\bin\Debug\NoteTaker.pdb
+C:\Users\misip\OneDrive\Asztali gép\NoteTaker\obj\Debug\NoteTaker.csproj.AssemblyReference.cache
+C:\Users\misip\OneDrive\Asztali gép\NoteTaker\obj\Debug\NoteTaker.csproj.SuggestedBindingRedirects.cache
+C:\Users\misip\OneDrive\Asztali gép\NoteTaker\obj\Debug\NoteTaker.formJegyzet.resources
+C:\Users\misip\OneDrive\Asztali gép\NoteTaker\obj\Debug\NoteTaker.Properties.Resources.resources
+C:\Users\misip\OneDrive\Asztali gép\NoteTaker\obj\Debug\NoteTaker.csproj.GenerateResource.cache
+C:\Users\misip\OneDrive\Asztali gép\NoteTaker\obj\Debug\NoteTaker.csproj.CoreCompileInputs.cache
+C:\Users\misip\OneDrive\Asztali gép\NoteTaker\obj\Debug\NoteTaker.exe
+C:\Users\misip\OneDrive\Asztali gép\NoteTaker\obj\Debug\NoteTaker.pdb
